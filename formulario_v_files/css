@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Candal';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Candal'), url(https://web.archive.org/web/20161119054002im_/https://fonts.gstatic.com/s/candal/v6/9lf13JfVkaPvqypoC0K2XQ.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 05:40:02 Nov 19, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:01 May 31, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 188.888
+  CDXLines.iter: 88.342 (3)
+  PetaboxLoader3.datanode: 89.365 (4)
+  esindex: 0.021
+  load_resource: 253.858
+  LoadShardBlock: 202.746 (3)
+  RedisCDXSource: 11.719
+  captures_list: 1272.017
+  exclusion.robots: 0.401
+  exclusion.robots.policy: 0.38
+*/
